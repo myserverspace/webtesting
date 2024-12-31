@@ -478,8 +478,8 @@ p {
     align-items: center;
   }
 
-  .content-image{
-    height: 300px;
+  .Main-content .content-image{
+    height: auto;
     margin-left: 2px;
   }
 
