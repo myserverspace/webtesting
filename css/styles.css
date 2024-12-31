@@ -532,7 +532,7 @@ p {
   }
 
   .htitle{
-    font-size: 12px;
+    font-size: 9px;
   }
 
   .ellipsis-text{
@@ -541,9 +541,9 @@ p {
 
   .content .content-text{
     flex: 2;
-    width: 100px;
+    width: 70px;
     /* Set the width of the container */
-    margin: 20px 10px;
+    margin: 10px 10px;
     font-size: 18px;
   }
   .footer{
